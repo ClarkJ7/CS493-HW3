@@ -1,1 +1,2 @@
-boat = "boat"
+boats = "boats"
+slips = "slips"
